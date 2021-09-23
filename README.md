@@ -1,14 +1,9 @@
 <h1>Objetivos</h1>
-  <ul style="color:'red';">
+  <ul style="color:'#ff0000 ';">
     <li>Treinar HTML
     <li>Treinar Css
     <li>Treinar Js
   
   </ul>
   
-  <style>
-      h1{
-        color:blue;
   
-        }
-  </style>
