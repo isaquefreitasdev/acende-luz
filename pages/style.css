@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: black;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;   
+}
+img{
+   
+}
+.buttons{
+   
+    
+   
+}
+
+button{
+    
+}
